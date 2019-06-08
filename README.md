@@ -6,3 +6,6 @@
 1. Select "New Environment", ensure location is <your-proj-directory/venv>
 1. Select the right base interpreter
 1. Click "OK"
+1. Open "Terminal" within PyCharm
+1. source venv/bin/activate
+1. pip install -r requirements.txt
